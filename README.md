@@ -1,2 +1,12 @@
-# fav-javascript-resources
-JavaScript resources that I like
+# Good JavaScript Resources
+
+Collection of my fav JavaScript article/books links, feel free to add more.
+
+* https://github.com/getify/You-Dont-Know-JS
+* http://bonsaiden.github.io/JavaScript-Garden/
+* https://github.com/airbnb/javascript
+* https://www.paulirish.com/2011/11-more-things-i-learned-from-the-jquery-source/
+* https://www.paulirish.com/2010/10-things-i-learned-from-the-jquery-source/
+* https://www.toptal.com/javascript
+* https://medium.com/javascript-scene/10-interview-questions-every-javascript-developer-should-know-6fa6bdf5ad95
+
