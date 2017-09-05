@@ -13,3 +13,4 @@ Collection of my fav JavaScript article/books links, feel free to add more.
 * https://2014.jsconf.eu/speakers/philip-roberts-what-the-heck-is-the-event-loop-anyway.html
 * http://jsbooks.revolunet.com/
 * https://github.com/sorrycc/awesome-javascript
+* async / await - https://www.youtube.com/watch?v=568g8hxJJp4
